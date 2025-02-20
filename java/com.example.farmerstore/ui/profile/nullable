@@ -1,0 +1,4 @@
+package com.example.farmerstore.ui.profile;
+
+public @interface Nullable {
+}
